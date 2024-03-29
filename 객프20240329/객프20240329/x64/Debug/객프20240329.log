@@ -1,0 +1,5 @@
+﻿  OOP3-4.cpp
+C:\c++\객프20240329\OOP3-4.cpp(7,11): error C2955: 'std::array': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(147,7):
+  'std::array' 선언을 참조하십시오.
+  
